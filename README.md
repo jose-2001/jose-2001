@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there! 👋
+I'm Jose, a budding developer from Colombia currently learning all things java.
+I'm looking forward to absorb every bit of knowledge I come across.
+At the moment, I'm working on projects to help me hone basic skills.
+Making mistakes and learning from them, as it should be!
 
 <!--
 **jose-2001/jose-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
